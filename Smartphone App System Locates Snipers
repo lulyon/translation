@@ -1,0 +1,8 @@
+Smartphone App System Locates Snipers
+智能手机应用系统定位狙击手
+When the first shots were fired at JFK's motorcade, police couldn't immediately locate the gunman based on sound alone. Today, the technology exists for them to it with their smartphones, less than a second after the first shot.
+当枪手向JFK的车队开出第一枪，警察只根据声音无法立刻定位枪手的位置。现在，手机就可以装配这样的技术，不到一秒钟就可以定位枪手。
+Here's how. Most bullets travel at supersonic speeds, generating a shock wave along their path. To track that path, researchers built a small bluetooth sensor for smartphones. The sensor uses four mics to measure the shock wave's angle, and its time of arrival. Then each phone networks with nearby phones to triangulate the sniper's location, mapping it on the smartphone screen within a second of the gun blast. Researchers tested the system with an AK-47, and were able to calculate the shooter's bearings with less than seven degrees of error, and get a decent estimate of his range. They presented the method at the Conference on Information Processing in Sensor Networks in Philadelphia. [János Sallai et al., Acoustic Shockwave-Based Bearing Estimation]
+这是方法。大部分子弹以超音速飞行，在路线上会形成冲击波。为了跟踪其路线，研究人员为智能手机内置了一个蓝牙传感器。传感器使用四个MICS来测量冲击波的方向，以及到达事件。然后每只手机与附近的手机对狙击手的位置进行三角定位，在手机屏幕上绘制出狙击手的位置。研究人员用AK-47测试了该系统，能够计算出狙击手的位置，不超过7度的误差，而且能基本估计狙击手的距离。这个方法发表在the Conference on Information Processing in Sensor Networks in Philadelphia. [János Sallai et al., Acoustic Shockwave-Based Bearing Estimation]
+Since the system requires at least two phones to work, researchers say it would be ideal for a security force fanned out around a likely target—allowing them to respond to threats almost as fast as a speeding bullet.
+由于系统需要至少两只手机才能工作，研究人员认为理想情况是在可能的目标旁边部署安全力量——允许他们实时对威胁做出反应。
